@@ -1,0 +1,74 @@
+body
+{
+    background-color: #444154;
+}
+
+#accordion
+{
+    width: 80%;
+}
+
+.custom-colorize 
+{
+    font-size: 20px;
+    position: relative;
+    width: 75px;
+    height: 75px;
+}
+
+.custom-colorize-changer 
+{
+    font-size: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+h1, h2, h3
+{
+    text-align: center;
+    color: #fec9c1;
+}
+
+section
+{
+    margin: 2% auto;
+    padding: 1ex;
+    width: 50%;
+    background-color: #7a637f;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10ex;
+
+    p
+    {
+        width: 80%;
+    }
+
+    fieldset
+    {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 2%;
+    }
+
+    a
+    {
+        font-size: 3ex;
+        color: #fec9c1;
+    }
+
+    #tabs
+    {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 2%;
+    }
+
+    .custom-font
+    {
+        color: #fec9c1;
+    }
+}
